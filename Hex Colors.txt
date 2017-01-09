@@ -1,0 +1,4 @@
+Hex Colors
+-#cad8d8 white
+-#914c8e warm purple
+-#0e3a21 dark green
